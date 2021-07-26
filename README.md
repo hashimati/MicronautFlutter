@@ -1,4 +1,4 @@
-# MicronautFlutter
+# Micronaut + Flutter Web App
 
 A Simple demo app that demostrate configuring a Flutter Web App in a Micronaut application. 
 
