@@ -5,7 +5,7 @@ A Simple demo app that demostrate configuring a Flutter Web App in a Micronaut a
 
 The Basic Steps:
 1. Create a flutter application
-2. Configure Web Flag 
+2. Enable Web 
 ```shell  
  flutter configu --enable-web
 ```
