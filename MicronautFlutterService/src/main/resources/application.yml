@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: micronautFlutterService
+  router:
+    static-resources:
+      default:
+        mapping: "/**"
+      '*':
+        paths:
+          - "classpath:static"
+        enabled: true
