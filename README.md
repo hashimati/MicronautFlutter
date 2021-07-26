@@ -1,6 +1,6 @@
 # Micronaut + Flutter Web App
 
-A Simple demo app that demostrate configuring a Flutter Web App in a Micronaut application. 
+A Simple demo app that demostrates configuring a Flutter Web App in a Micronaut application. 
 
 
 The Basic Steps:
