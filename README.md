@@ -55,7 +55,7 @@ micronaut:
           - "classpath:static"
         enabled: true
 ```
-9. Run the blow command to launch the Micronaut app. 
+9. Run the below command to launch the Micronaut app. 
 
 ```shell
 gradlew clean run
